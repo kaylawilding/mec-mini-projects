@@ -15,3 +15,7 @@ Thumbs.db
 # VSCode
 .vscode/*
 .env
+mec-6.4.1.data-wrangling-at-scale-with-spark/access_log_Aug95
+mec-6.4.1.data-wrangling-at-scale-with-spark/access_log_Jul95
+*.gz
+*.txt
