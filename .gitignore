@@ -19,3 +19,8 @@ mec-6.4.1.data-wrangling-at-scale-with-spark/access_log_Aug95
 mec-6.4.1.data-wrangling-at-scale-with-spark/access_log_Jul95
 *.gz
 *.txt
+mec-17.4.1-recommendation-systems-mini-project/data/64i3h2yotmp
+*.zip
+mec-17.4.1-recommendation-systems-mini-project/data/movie_titles.csv
+mec-17.4.1-recommendation-systems-mini-project/data/movies_metadata.csv
+mec-17.4.1-recommendation-systems-mini-project/data/movies_metadata.csv
